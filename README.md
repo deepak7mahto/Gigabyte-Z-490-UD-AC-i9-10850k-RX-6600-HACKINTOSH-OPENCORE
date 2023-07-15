@@ -1,1 +1,3 @@
 # Gigabyte-Z-490-UD-AC-i9-10850k-RX-6600-HACKINTOSH-OPENCORE
+
+Wifi Not Working
